@@ -6,6 +6,8 @@
 #define MILLI_SECOND 1000000 //nano秒単位でmsを表現
 #define N 10000
 
+// My name is KUBO
+
 typedef struct mass_point{
     double x0; //初期位置x座標
     double y0; //初期位置y座標
